@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "O": {
+      "item": "minecraft:orange_wool"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "WWW",
+    "BWB"
+  ],
+  "result": {
+    "item": "content:finnstrange_plush"
+  }
+}

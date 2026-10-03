@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 100,
+  "experience": 1,
+  "ingredient": {
+    "item": "content:charter_lux_plush"
+  },
+  "result": "content:nox_plush"
+}

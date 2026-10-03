@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+  "M": {
+    "item": "minecraft:magenta_wool"
+  },
+    "P": {
+      "item": "minecraft:pink_wool"
+    }
+},
+  "pattern": [
+    "BGB",
+    "MPM",
+    "BMB"
+  ],
+  "result": {
+    "item": "content:admin_mando_plush"
+  }
+}

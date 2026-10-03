@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "content",
+	"version": "${version}",
+	"name": "Plushie Pals",
+	"description": "A glorified plushie mod with some extra features",
+	"authors": [
+		"Gabe_Real (Owner/Developer)",
+		"Wazou (Artist)",
+		"Flameboy200 (Contributor)"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/user/Gabe_Real",
+		"donate": "https://ko-fi.com/gabe_real",
+		"issue tracker": "https://github.com/Gabe-Real"
+	},
+	"license": "ARR",
+	"icon": "assets/content/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.gabe_real.Content"
+		],
+		"client": [
+			"dev.gabe_real.ContentClient"
+		]
+	},
+	"mixins": [
+		"content.mixins.json",
+		{
+			"config": "content.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:orange_dye"
+  },
+  "base": {
+    "item": "minecraft:stick"
+  },
+  "result": {
+    "item": "content:ympe_plush"
+  }
+}

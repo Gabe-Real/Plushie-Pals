@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "base": {
+    "item": "content:wazou_plush"
+  },
+  "result": {
+    "item": "content:wazou_plush_two"
+  }
+}

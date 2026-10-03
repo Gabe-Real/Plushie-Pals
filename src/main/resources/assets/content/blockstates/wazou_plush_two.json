@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "content:block/wazou_plush_two",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "content:block/wazou_plush_two"
+    },
+    "facing=south": {
+      "model": "content:block/wazou_plush_two",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "content:block/wazou_plush_two",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "P": {
+      "item": "minecraft:purple_wool"
+    },
+    "O": {
+      "item": "minecraft:orange_wool"
+    },
+    "Y": {
+      "item": "minecraft:cyan_wool"
+    }
+  },
+  "pattern": [
+    "POP",
+    "OCO",
+    "YPY"
+  ],
+  "result": {
+    "item": "content:lux_plush"
+  }
+}

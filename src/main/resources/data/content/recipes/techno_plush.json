@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:porkchop"
+  },
+  "base": {
+    "item": "minecraft:cooked_porkchop"
+  },
+  "result": {
+    "item": "content:techno_plush"
+  }
+}

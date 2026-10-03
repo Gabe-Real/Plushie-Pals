@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:pink_wool"
+    },
+    "M": {
+      "item": "minecraft:magenta_dye"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "A": {
+      "item": "minecraft:allium"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "MGA",
+    "PNP",
+    "MPM"
+  ],
+  "result": {
+    "item": "content:amy_plush"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "W": {
+      "item": "minecraft:brown_wool"
+    },
+    "L": {
+      "item": "minecraft:white_wool"
+    },
+    "H": {
+      "item": "minecraft:purple_wool"
+    }
+  },
+  "pattern": [
+    "WLL",
+    "LHL",
+    "BLB"
+  ],
+  "result": {
+    "item": "content:winsweep_plush"
+  }
+}

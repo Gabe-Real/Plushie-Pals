@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:lime_wool"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "M": {
+      "item": "minecraft:green_wool"
+    },
+    "P": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "pattern": [
+    "PGP",
+    "MPM",
+    "BMB"
+  ],
+  "result": {
+    "item": "content:alien_plush"
+  }
+}

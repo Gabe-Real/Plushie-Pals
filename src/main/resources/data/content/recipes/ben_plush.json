@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Y": {
+      "item": "minecraft:gold_block"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "D": {
+      "item": "minecraft:yellow_dye"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    "DYD",
+    "YRY",
+    "BNB"
+  ],
+  "result": {
+    "item": "content:ben_plush"
+  }
+}

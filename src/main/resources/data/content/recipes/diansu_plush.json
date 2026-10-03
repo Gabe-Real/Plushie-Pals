@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "G": {
+      "item": "minecraft:green_wool"
+    },
+    "L": {
+      "item": "minecraft:lime_dye"
+    },
+    "O": {
+      "item": "minecraft:brown_wool"
+    },
+    "A": {
+      "item": "minecraft:orange_wool"
+    }
+  },
+  "pattern": [
+    "LOL",
+    "LGL",
+    "BOB"
+  ],
+  "result": {
+    "item": "content:diansu_plush"
+  }
+}

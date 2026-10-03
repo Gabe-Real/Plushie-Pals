@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "minecraft:cyan_wool"
+    },
+    "D": {
+      "item": "minecraft:lime_dye"
+    },
+    "L": {
+      "item": "minecraft:lime_wool"
+    },
+    "P": {
+      "item": "minecraft:pink_wool"
+    },
+    "K": {
+      "item": "minecraft:crossbow"
+    }
+  },
+  "pattern": [
+    "DCD",
+    "LKL",
+    "LPL"
+  ],
+  "result": {
+    "item": "content:moriya_plush"
+  }
+}

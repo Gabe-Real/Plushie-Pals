@@ -1,0 +1,29 @@
+{
+  "replace": "false",
+  "values": [
+
+    "content:lux_plush",
+    "content:charter_lux_plush",
+    "content:nox_plush",
+    "content:techno_plush",
+    "content:diansu_plush",
+    "content:fundy_plush",
+    "content:mouthpiece_plush",
+    "content:arathain_plush",
+    "content:mando_plush",
+    "content:admin_mando_plush",
+    "content:alien_plush",
+    "content:ympe_plush",
+    "content:clown_plush",
+    "content:wazou_plush_two",
+    "content:wazou_plush",
+    "content:finnstrange_plush",
+    "content:augur_plush",
+    "content:moriya_plush",
+    "content:inkling_plush",
+    "content:winsweep_plush",
+    "content:eightsidedsquare_plush",
+    "content:amy_plush",
+    "content:ben_plush"
+  ]
+}

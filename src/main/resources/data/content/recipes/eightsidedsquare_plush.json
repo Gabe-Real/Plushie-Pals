@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:red_dye"
+    },
+    "B": {
+      "item": "minecraft:blue_wool"
+    },
+    "G": {
+      "item": "minecraft:green_wool"
+    },
+
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "RGR",
+    "WBW",
+    "WBW"
+  ],
+  "result": {
+    "item": "content:eightsidedsquare_plush"
+  }
+}
