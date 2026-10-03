@@ -91,7 +91,7 @@ Can I add this to my modpack? Yes
 
 ## Updates
 
-(19th December 2024) - Versions 1.0.0/1.1.0 are still in beta form, any issues found please report in my discord or email me: mandojango1846@hotmail.com 
+(19th December 2024) - Versions 1.0.0/1.1.0 are still in beta form
 
 Quilt 1.19.2 version should be out in a week or two 
 
